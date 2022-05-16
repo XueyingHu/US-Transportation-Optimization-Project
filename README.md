@@ -1,5 +1,12 @@
-# optimization_project_ieor4004
+# US-Transportation-Potimization-Project
 Final project for IEOR 4004 - Optimization models and methods @ Columbia Engineering.
+
+## Goal
+To determine lowest-cost operation of a power system to satisfy demands by solving a linear optimization problem (using a representation of power systems that ignores, simplifies or approximates several real-world features).
+
+Targeted Network: 1814 transportation buses, 2023 branches, 395 energy generators.
+
+Details can be find in the report.
 
 To run tasks:
 - `python main.py [task] [v]`
